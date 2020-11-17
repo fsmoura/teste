@@ -1,0 +1,17 @@
+{
+  "name": "teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/fsmoura/teste.git",
+  "author": "Fabio Moura <fabio.siq.moura@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon main"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
